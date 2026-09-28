@@ -1,6 +1,6 @@
 # SAM Grasshopper icon redesign — SAM_GEM PR record
 
-Branch `feature/sam-gh-icon-redesign`, based on `sow/2026-Q3` @ `5af5d69`. PR: (to be opened).
+Branch `feature/sam-gh-icon-redesign`, based on `sow/2026-Q3` @ `5af5d69`. PR: SAM-BIM/SAM_GEM#9.
 Propagates the SAM icon design system from SAM-BIM/SAM#166 (head `cf4d924a`, open, not merged) to this repository.
 
 ## Current status
