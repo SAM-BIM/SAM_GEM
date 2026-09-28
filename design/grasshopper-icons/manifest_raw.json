@@ -1,0 +1,19 @@
+[
+ {
+  "project": "SAM.Analytical.Grasshopper.GEM",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.GEM",
+  "class": "SAMAnalyticalToGEM",
+  "base_type": "GH_SAMVariableOutputParameterComponent",
+  "guid": "88f14afb-c6b7-4d0b-b2fb-6979e673867b",
+  "name": "SAMAnalytical.ToGEM",
+  "nickname": "SAMAnalytical.ToGEM",
+  "category": "SAM",
+  "subcategory": "GEM",
+  "icon_expr": "SAM_IES24",
+  "icon_holder": "Resources",
+  "icon_via_bytes": false,
+  "exposure": null,
+  "obsolete": false,
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.GEM/Component/SAMAnalyticalToGEM.cs"
+ }
+]
