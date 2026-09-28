@@ -1,0 +1,30 @@
+[
+ {
+  "class": "SAMAnalyticalToGEM",
+  "name": "SAMAnalytical.ToGEM",
+  "nickname": "SAMAnalytical.ToGEM",
+  "category": "SAM",
+  "subcategory": "GEM",
+  "project": "SAM.Analytical.Grasshopper.GEM",
+  "project_dir": "Grasshopper/SAM.Analytical.Grasshopper.GEM",
+  "source": "Grasshopper/SAM.Analytical.Grasshopper.GEM/Component/SAMAnalyticalToGEM.cs",
+  "guid": "88f14afb-c6b7-4d0b-b2fb-6979e673867b",
+  "kind": "component",
+  "exposure": null,
+  "obsolete": false,
+  "current_icon": "SAM_IES24",
+  "icon_holder": "Resources",
+  "object": "model",
+  "op": "export",
+  "plural": false,
+  "container": null,
+  "glyph_origin": "SAM",
+  "badge_origin": "SAM",
+  "rule": "override",
+  "note": "writes a GEM file",
+  "icon_id": "model_export",
+  "resource": "SAM_GH_ModelExport",
+  "icon_file": "svg/model_export.svg",
+  "status": "integrated"
+ }
+]
